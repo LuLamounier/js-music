@@ -1,4 +1,4 @@
-🎹 Simulador de Piano
+###🎹 Simulador de Piano
 
 Bem-vindo ao Simulador de Piano! Este projeto foi criado com o objetivo de fornecer uma plataforma interativa para tocar piano virtualmente, oferecendo uma experiência educativa e divertida para músicos iniciantes e entusiastas. Realizado no curso de Front-End da plataforma DIO.
 
